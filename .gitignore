@@ -1,0 +1,8 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+mobile/.dart_tool/
+mobile/build/
+mobile/.idea/
+dist/
+.env
